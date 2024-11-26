@@ -1,11 +1,11 @@
-# 💡 BoaVida - Autocuidado em Foco  
+# 🌿 BoaVida - Autocuidado em Foco  
 
-## 🧑‍🤝‍🧑 Integrantes da Equipe  
-📘 Leonardo David dos Santos - RA: 2588447  
+## 👤 Integrantes da Equipe  
+✍️ Leonardo David dos Santos - RA: 2588447  
 
 ---
 
-## 🌎 ODS Selecionado  
+## 🌱 ODS Selecionado  
 **Saúde e Bem-Estar (ODS 3)**  
 Este projeto busca contribuir para o ODS 3, promovendo práticas de autocuidado e conscientização sobre a importância da saúde mental no dia a dia.  
 
@@ -16,9 +16,9 @@ O "BoaVida - Autocuidado em Foco" é uma aplicação desenvolvida para incentiva
 
 ---
 
-## 🔧 Estrutura do Projeto  
+## 🛠️ Estrutura do Projeto  
 
-### 🏡 Página Inicial  
+### 🏠 Página Inicial  
 - Apresentação do projeto com mensagens de motivação e informações básicas sobre saúde mental.  
 
 ### 📚 Recursos Educativos  
@@ -26,8 +26,8 @@ O "BoaVida - Autocuidado em Foco" é uma aplicação desenvolvida para incentiva
   - Exercícios de respiração e relaxamento.  
   - Identificação de sinais de estresse e dicas para enfrentá-los.  
 
-### 🛋️ Exercícios Práticos  
+### 🧘‍♂️ Exercícios Práticos  
 - Sugestões leves e acessíveis, como pausas guiadas e reflexões diárias.  
 
-### 📬 Fale Conosco  
+### ✉️ Fale Conosco  
 - Um formulário simples e direto para envio de dúvidas ou sugestões.  

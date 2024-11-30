@@ -12,7 +12,8 @@ Este projeto busca contribuir para o ODS 3, promovendo práticas de autocuidado 
 ---
 
 ## 📖 Descrição do Projeto  
-O "BoaVida - Autocuidado em Foco" é uma aplicação desenvolvida para incentivar a saúde mental por meio de informações claras e práticas simples. A ideia é oferecer uma experiência acessível e acolhedora, ajudando as pessoas a priorizarem o bem-estar emocional.  
+O "BoaVida - Autocuidado em Foco" é um projeto desenvolvido para incentivar a saúde mental por meio de informação claras e práticas simples. A ideia é oferecer uma experiência acessível e acolhedora, ajudando as pessoas a priorizarem o bem-estar emocional. 
+
 
 ---
 

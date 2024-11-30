@@ -1,0 +1,66 @@
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f8f9fa;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+#login {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+}
+
+#login h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #556B2F;
+  font-size: 2rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+label {
+    display: block;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 0.5rem;
+}
+
+input {
+  padding: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+}
+
+#entrar {
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: #6b8f3c;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#entrar:hover {
+    background-color: #556B2F;
+  }
+
+#formulario {
+  text-align: center;
+}

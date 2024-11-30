@@ -20,15 +20,10 @@ O "BoaVida - Autocuidado em Foco" é um projeto desenvolvido para incentivar a s
 ## 🛠️ Estrutura do Projeto  
 
 ### 🏠 Página Inicial  
-- Apresentação do projeto com mensagens de motivação e informações básicas sobre saúde mental.  
-
-### 📚 Recursos Educativos  
-- Conteúdos práticos, incluindo:  
-  - Exercícios de respiração e relaxamento.  
-  - Identificação de sinais de estresse e dicas para enfrentá-los.  
+- Apresentação do projeto informando sobre a importância da saúde mental e descrevendo os sintomas de algumas doenças
 
 ### 🧘‍♂️ Exercícios Práticos  
-- Sugestões leves e acessíveis, como pausas guiadas e reflexões diárias.  
+- Exercícios de respiração e relaxamento.  
 
 ### ✉️ Fale Conosco  
-- Um formulário simples e direto para envio de dúvidas ou sugestões.  
+- Um formulário de cadastro simples e direto.

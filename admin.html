@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="admin.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+  <title>Cadastro usuário - BoaVida</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <h1>🌿 BoaVida</h1>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+      </ul>
+    </nav>
+  </header>
+<main>
+  <div id="cadastro">
+    <h2>Cadastrar novo usuário</h2>
+    <form id="cadusuario">
+      <label for="nome">Nome de usuário:</label>
+      <input type="text" id="nome" name="nome" placeholder="Digite seu usuário" required>
+
+      <label for="email">E-mail:</label>
+      <input type="email" id="email" name="email" placeholder="Digite seu e-mail" required>
+
+      <button type="submit">Cadastrar</button>
+      <button id="limpar" class="btn btn-clear"><i class="fas fa-eraser"></i> Limpar</button>
+
+    </form>
+    
+    <h3>Usuários cadastrados</h3>
+    <input type="text" id="pesquisar" placeholder="Pesquisar usuários">
+
+    <div id="lista-usuario">
+      <div class="lista-header">
+        <span>Data</span>
+        <span>Nome</span>
+        <span>E-mail</span>
+        <span>Ações</span>
+      </div>
+      <ul id="listar-usuarios"></ul>
+    </div>
+    <button id="limpar-todos" class="btn btn-clear-all"><i class="fas fa-trash-alt"></i> Excluir Todos</button>
+  </div>
+</main>
+
+<footer>  
+  <p>Leonardo David dos Santos</p>
+  <p><a href="https://leonardodavidsantos.github.io/curriculo-frontend-utfpr.github.io/" target="_blank"><i class="fas fa-file-alt"></i> Currículo</a></p>
+ 
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
